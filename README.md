@@ -46,7 +46,7 @@ Travel companies spend significant resources on marketing campaigns without know
 
 ## 🔄 Project Framework
 
-
+![Project Workflow](images/project_workflow.png)
 ---
 
 ## 🤖 Machine Learning Models
@@ -89,12 +89,12 @@ Travel companies spend significant resources on marketing campaigns without know
 
 ## 📊 Model Evaluation & Comparison
 
-
+![Model Comparison](images/model_comparison.png)
 ---
 
 ## 🌟 Feature Importance (Final Random Forest Model)
 
-
+![Feature Importance](images/feature_importance_random_forest.png)
 
 The Random Forest model identified customer engagement and travel behaviour features as the most influential predictors of purchase propensity.
 
@@ -102,12 +102,12 @@ The Random Forest model identified customer engagement and travel behaviour feat
 
 ## 📈 ROC Curve
 
-
+![ROC Curve](images/roc_curve.png)
 ---
 
 ## 📉 Confusion Matrix
 
-
+![Confusion Matrix](images/confusion_matrix.png)
 ---
 
 ## 💡 Key Findings
@@ -128,6 +128,11 @@ The Random Forest model identified customer engagement and travel behaviour feat
 - Periodically retrain the model using updated customer behaviour data.
 
 ---
+## 📌 Acknowledgement
+
+This repository showcases my **Capstone Project** completed as part of the **Post Graduate Program in Data Science**. The dataset was provided as part of the capstone project, while the end-to-end analysis, data preprocessing, feature engineering, machine learning model development, evaluation, and project documentation presented in this repository were completed as part of the project.
+
+---
 
 ## 👩‍💻 Author
 
@@ -135,5 +140,5 @@ The Random Forest model identified customer engagement and travel behaviour feat
 
 Aspiring Data Analyst | Machine Learning Enthusiast
 
-**Skills:** Python • SQL • Machine Learning • Data Analysis • Statistics • Business Analytics
+**Skills:** Python • SQL • Tableau • Machine Learning • Data Analysis • Statistics • Business Analytics
            

@@ -21,6 +21,8 @@ Travel companies spend significant resources on marketing campaigns without know
 | Target Variable | Taken_product (Yes/No) |
 | Positive Class | 16.1% |
 
+**Source:** Dataset provided as part of the Capstone Project for the Post Graduate Program in Data Science.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -126,11 +128,6 @@ The Random Forest model identified customer engagement and travel behaviour feat
 - Develop separate targeting strategies for Laptop and Mobile users.
 - Use predictive lead scoring to identify customers with high purchase propensity.
 - Periodically retrain the model using updated customer behaviour data.
-
----
-## 📌 Acknowledgement
-
-This repository showcases my **Capstone Project** completed as part of the **Post Graduate Program in Data Science**. The dataset was provided as part of the capstone project, while the end-to-end analysis, data preprocessing, feature engineering, machine learning model development, evaluation, and project documentation presented in this repository were completed as part of the project.
 
 ---
 

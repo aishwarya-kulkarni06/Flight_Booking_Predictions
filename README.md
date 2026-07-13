@@ -19,7 +19,6 @@ Travel companies spend significant resources on marketing campaigns without know
 | Total Records | 11,760 |
 | Features | 17 |
 | Target Variable | Taken_product (Yes/No) |
-| Positive Class | 16.1% |
 
 **Source:** Dataset provided as part of the Capstone Project for the Post Graduate Program in Data Science.
 
